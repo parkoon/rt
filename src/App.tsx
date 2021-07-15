@@ -13,4 +13,10 @@ function actionText() {
   console.log("action text");
 }
 
+// TODO action text 2
+// here?
+function actionText2() {
+  console.log("action text");
+}
+
 export default App;
